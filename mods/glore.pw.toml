@@ -1,0 +1,13 @@
+name = "Glore"
+filename = "glore-1.21.x-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4d1da1131abe869a4bbf760794193be65d9ad7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5744803
+project-id = 916376

@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.21.1-v21.1.2.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29c730a4ad78a337a230cda64e0a3caa54f27fcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8375300
+project-id = 568372
