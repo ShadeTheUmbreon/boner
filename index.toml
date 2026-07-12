@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fcadcc088675cf866ea08c4c1bbd11adccb21b1e0fe9715c37ff7f88d9a96716"
+hash = "dd4f7fa317d9d64f1e04350c95b7bfd566eda25a48f243704c7d92cf015f1b57"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
+hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "6798193cba4ef9bc2bcc58bd9e2bdfa27d7f652a91a55f07b84e24e22445264f"
+hash = "371ece4e1ade947fd879e0a056d641e1047daf584ef57b7df7ceb45c5d4f942c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "48e07746aba9a2047e6ca411315ced532cafce860a1ca1059de05d66fea4973f"
+hash = "2ffe066bcb28ea808321dfb3a710a0b9fb2b3649b3d109f775bbd15483760178"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f449daf9f88099c8af7e9981bbbc24c2a5530ad2a3c37ef3b35b1e3c4f3299a1"
+hash = "9a8c2546447303b4dde1862ef1e358a1728f60845e029e9ca6ddaa622b618b53"
 metafile = true
 
 [[files]]
@@ -512,12 +512,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c379295c0754112a5a7b83bd0dab3a9125260f58c1d2805a6b10959019eeabe7"
+hash = "6d814cb2fe047fb85fc51190ef5217dfd468afea0865565767dae445b98dc174"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4bdabbc8a7e16df7251c18546a7b8930c04ef75f955ace075b93ba4148abdb9a"
+hash = "9894d64f7a94f2f6467f6f2e537332dd287b77c293d35797b39ab5b3a00b0149"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e1bf5ce03e68844336f2872a9d203e9230dad089c2a32f43a7e9ebafc7464221"
+hash = "a8b98750a51ba1ef7cd98be2d4fc053bfd93af8df1410708a3219b1aeab71ac0"
 metafile = true
 
 [[files]]
