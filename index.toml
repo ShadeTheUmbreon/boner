@@ -541,6 +541,11 @@ hash = "cd4f259b6d6da3cd38453ca85d399008188ebf53aad649231be2729e3fb9bc6e"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "d323a56389acaff215e3dc54e9db35141e8398d111644b45a970b114a29299df"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "a8b98750a51ba1ef7cd98be2d4fc053bfd93af8df1410708a3219b1aeab71ac0"
 metafile = true
