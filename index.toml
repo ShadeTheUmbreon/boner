@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "cd5dc688459e9851ef287b7b01e31e6daccde45dc038aa18a571735de40965a1"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "8d62a389ba435729d3341e1c072db17e4dab28ecf3f39b04af065fe44c88e1a8"
 metafile = true
