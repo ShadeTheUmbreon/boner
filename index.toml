@@ -60,6 +60,11 @@ hash = "c85631b14c6b20739d4621f821ca89cb60a7b125b2a0cf4baa19c25b084ba4d2"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "cc68949c02bcb1ea4ad83d7a8f9c7b039b7ccb6af8ac97a8b9ea62efaac7a484"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "72b8637f99298483016f7f7acc075462a88bbd60ef1b8b62a6c5eaf533bb8a82"
 metafile = true
